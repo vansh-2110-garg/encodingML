@@ -1,2 +1,2 @@
 # encodingML
-ordinal &amp; one hot encoding python script 
+ordinal and one hot encoding python script 
